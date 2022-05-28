@@ -14,7 +14,9 @@ Team_Profile_Gen is a program used to create a html of a team so that a manager 
 
 # Installation
 1: Pull from: https://github.com/BillyBain/Team_Profile_Gen 
+
 2: With an integrated terminal run 'npm i' 
+
 3: In the same terminal run 'npm start'
 
 # Usage
