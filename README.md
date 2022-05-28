@@ -24,7 +24,8 @@ To set up a quick page to access a team's employees. Each employee will have the
 
 # Links
 Github Repo: https://github.com/BillyBain/Team_Profile_Gen
-Video Tutorial: 
+
+Video Tutorial: https://watch.screencastify.com/v/cFdQRWiAfTz32sN8vMqs
 
 # Test Instructions
 Once 'npm start' is running you will be prompted with a series of questions and answer them how you would like but remember employees will be displayed in the order you put them in. Once you have entered in all employees then select 'No' on the "add more employees question" then the html will be generated in the '/dist' folder.
