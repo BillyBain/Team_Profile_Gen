@@ -1,0 +1,17 @@
+{
+  "name": "team_profile_gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "jest"
+  },
+  "author": "Billy Bain",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
