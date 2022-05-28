@@ -20,7 +20,7 @@ Team_Profile_Gen is a program used to create a html of a team so that a manager 
 3: In the same terminal run 'npm start'
 
 # Usage
-To set up a quick page to access a team that gives each employee's title, name, email and other things like school for Interns and githubs for Engineers.
+To set up a quick page to access a team's employees. Each employee will have their title, name, email and other things like school for Interns and githubs pages for Engineers.
 
 # Links
 Github Repo: https://github.com/BillyBain/Team_Profile_Gen
